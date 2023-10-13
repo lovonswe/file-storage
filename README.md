@@ -16,7 +16,7 @@ Brief description of your project.
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-  -[Title](#link) 
+  - [Title](#link) 
 
 ## Introduction
 
